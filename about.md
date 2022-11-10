@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+A radiologist by training, PhD in neuroscience.
+More than 3 years experience in consulting on AI solutions in the radiology domian.
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[info@insparian.com](mailto:info@insparian.com)

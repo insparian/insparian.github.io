@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Running an Estonian company with e-residency, the service provider I used and what I like/dislike
+title: The best service providers for companies with e-residency in Estonian
 ---
 
 ![_config.yml]({{ site.baseurl }}https://nomadgate.com/uploads/covers/eresidency.jpg)
@@ -25,13 +25,13 @@ Some comparisons between _xolo_ and _companio_:
 
 **xolo**
 - easy and simple platform with essential functions including dashboard, income, expense, business trip, banking, company profile and reports
-- after some time of inactivity, the system logs you out automatically. 
+- after some time of inactivity, the system logs you out automatically
 - customer support is via emails
 - bank movements are matched automatically if you already have the invoice inside the system
 
 
 **companio**
 - has many implemented functions on the platform including home/dashboard, customers, sales, purchases, banks, bank movements, employees, reports and supports
-- allows to remember the login and never logs you out until you close the browser. It could be convinent or you could choose not to remember the login if you think it is not secure.
+- allows to remember the login and never logs you out until you close the browser. It could be convinent or you could choose not to remember the login if you think it is not secure
 - bank movements are manually matched with the invoices
-- one could use the support function directly inside the platform to create tickets.
+- one could use the support function directly inside the platform to create tickets

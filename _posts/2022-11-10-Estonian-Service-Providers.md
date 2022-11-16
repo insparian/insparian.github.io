@@ -24,15 +24,13 @@ Special offer: Xolo is currently giving [€100 credit when signing up through t
 Some comparisons between _xolo_ and _companio_:
 
 **xolo**
-Pros:
 - easy and simple platform with essential functions including dashboard, income, expense, business trip, banking, company profile and reports
 - after some time of inactivity, the system logs you out automatically. 
 - customer support is via emails
 - bank movements are matched automatically if you already have the invoice inside the system
 
 
-companio
-Pros:
+**companio**
 - has many implemented functions on the platform including home/dashboard, customers, sales, purchases, banks, bank movements, employees, reports and supports
 - allows to remember the login and never logs you out until you close the browser. It could be convinent or you could choose not to remember the login if you think it is not secure.
 - bank movements are manually matched with the invoices

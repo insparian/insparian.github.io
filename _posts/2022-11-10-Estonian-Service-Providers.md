@@ -11,13 +11,13 @@ In the summer of 2021, I decided to set myself free from location dependent. The
 
 I will not go through the actual process of opening a business, because registering and managing a business in Estonia is quite straightforward if you choose a service provider like _xolo_. They help to deal with regulations, accounting, and a mandatory business address. I started my company with _xolo_ and everything went really smoothly. 
 
-[Current promotion from Xolo: Register a company with Xolo Leap and complete onboarding by 30.11 and save €265 on company registration fee!.](https://www.xolo.io/ref/RUIZHA)
+[_€100 credit when signing up through this link for Xolo leap, and €50 if you choose Xolo go_](https://www.xolo.io/ref/RUIZHA)
 
 I must confess that I changed to another provider this summer because of small issues such as _xolo_ accidentally charged me twice because the bank was having some kind of updates. I manually paid the monthly fee but apparently _xolo_ makes the automatic charges every couple of days without checking whether the payment was already transferred. They of course reacted fast after I wrote to the customer service and refunded me. 
 
 I am a person trusting my intuitions and in the summer I felt I had to change to another provider. Well, I felt the same for the banking but did not do it. It turned out sometimes you should be more rational. I switched to _companio_ and ever since regret about this decision. There are so much more manual work with _companio_, I lost some time each month for creating different documents. _xolo_ manages my business with more relaxation. 
 
-Therefore I switched back to _xolo_ today (after almost five months because I found the additional work is a great burden). 
+Therefore I switched back to _xolo_ today (after almost five months because I found the additional work is a great burden for me). 
 
 Special offer: Xolo is currently giving [€100 credit when signing up through this link for Xolo leap, and €50 if you choose Xolo go](https://www.xolo.io/ref/RUIZHA).
 
@@ -26,8 +26,9 @@ Some comparisons between _xolo_ and _companio_:
 **xolo**
 - easy and simple platform with essential functions including dashboard, income, expense, business trip, banking, company profile and reports
 - after some time of inactivity, the system logs you out automatically
-- customer support is via emails
+- customer support is via emails (usually within 24 hours)
 - bank movements are matched automatically if you already have the invoice inside the system
+- annual report is included in the package
 
 
 **companio**
@@ -35,3 +36,4 @@ Some comparisons between _xolo_ and _companio_:
 - allows to remember the login and never logs you out until you close the browser. It could be convinent or you could choose not to remember the login if you think it is not secure
 - bank movements are manually matched with the invoices
 - one could use the support function directly inside the platform to create tickets
+- annual report will be offered by demand from 2023 on and costs €250+VAT

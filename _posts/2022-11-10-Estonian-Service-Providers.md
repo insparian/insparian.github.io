@@ -3,11 +3,11 @@ layout: post
 title: The best service providers for companies with e-residency in Estonian
 ---
 
-![_config.yml]({{ site.baseurl }}https://nomadgate.com/uploads/covers/eresidency.jpg)
-
 The Estionia e-residency program have been launched since December 2014, I was lucky to learn about this program in 2019 when I just started my career in medical AI after completed my Ph.D. 
 
 In the summer of 2021, I decided to set myself free from location dependent. Therefore I applied the e-residency and started a nomadic life. I have gone through the process of obtaining an e-residency. I went through the process of registering an Estonian business and opening a bank account as an e-resident. I've made mistakes, lost time and learned a lot in the past 1.5 years.
+
+![_config.yml]({{ site.baseurl }}https://nomadgate.com/uploads/covers/eresidency.jpg)
 
 I will not go through the actual process of opening a business, because registering and managing a business in Estonia is quite straightforward if you choose a service provider like _xolo_. They help to deal with regulations, accounting, and a mandatory business address. I started my company with _xolo_ and everything went really smoothly. 
 

@@ -6,7 +6,7 @@ title: Estonia's e-Residency Program - My Journey to Location Independent Living
 In 2019, I learned about the Estonia e-residency program and saw it as an opportunity to live a location-independent lifestyle. The program was launched in December 2014 and I was eager to join. I applied for the e-residency program, but it wasn't until the summer of 2021 that I took the leap and started my own company for location independent work.
 
 ![_config.yml]({{ site.baseurl }}https://nomadgate.com/uploads/covers/eresidency.jpg)
-Picture credit: nomadgate.com
+[^1]:Picture credit: nomadgate.com
 
 The process of registering an Estonian business and opening a bank account as an e-resident can be overwhelming, but with the help of a service provider like Xolo, everything became quite straightforward. Xolo helped me deal with regulations, accounting, and provided a mandatory business address. I was happy with Xolo's service and everything went smoothly.
 

@@ -35,4 +35,4 @@ Following Approval in Principle (provide within 30 working days)
 - Proof of accommodation: temprary accommodation of 1 month for the letter of final approval. Long-term accommodation covering the whole duration of the resident permit (min. 12 months) is needed for the resident card.
 - Healthy insurance: local/international fully-comprehensive health insurance covering for one year, travel insurance policy is not accepted.
 
-_Disclaimer: This article was written by ChatGPT with the essential information I provided. This article also contains affiliate links that may generate revenue which does not impact my user experiences shared in this blog._
+_Disclaimer: This article was written by ChatGPT with the essential information I provided._

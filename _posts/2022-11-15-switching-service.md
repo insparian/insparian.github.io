@@ -3,8 +3,6 @@ layout: post
 title: Making the Switch - How to Change Your Company's Service Provider in Estonia
 ---
 
-_Disclaimer: This article was written by ChatGPT with the essential information I provided. This article also contains affiliate links that may generate revenue which does not impact my user experiences shared in this blog._
-
 As a business owner, it is important to choose the right service provider for your company's needs. However, circumstances may change and you may need to switch service providers. In this guide, we will cover the process of switching service providers, including what to expect and what you need to know.
 
 [_€100 credit when signing up through this link for Xolo leap, and €50 if you choose Xolo go_](https://www.xolo.io/ref/RUIZHA)
@@ -32,3 +30,5 @@ I recently made the decision to switch back to Xolo after using Companio for a p
 In conclusion, switching service providers can be easy, as long as the new provider accepts already registered companies. The process of switching involves changing the legal address and paying a state fee of €25, as well as having the new and old providers handle the necessary documents. If you are considering switching service providers, it is important to weigh your options and make an informed decision.
 
 [_€100 credit when signing up through this link for Xolo leap, and €50 if you choose Xolo go_](https://www.xolo.io/ref/RUIZHA)
+
+_Disclaimer: This article was written by ChatGPT with the essential information I provided. This article also contains affiliate links that may generate revenue which does not impact my user experiences shared in this blog._

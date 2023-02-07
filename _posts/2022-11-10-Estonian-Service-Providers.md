@@ -5,9 +5,6 @@ title: Estonia's e-Residency Program - My Journey to Location Independent Living
 
 In 2019, I learned about the Estonia e-residency program and saw it as an opportunity to live a location-independent lifestyle. The program was launched in December 2014 and I was eager to join. I applied for the e-residency program, but it wasn't until the summer of 2021 that I took the leap and started my own company for location independent work.
 
-![_config.yml]({{ site.baseurl }}https://nomadgate.com/uploads/covers/eresidency.jpg)
-[^1]:Picture credit: nomadgate.com
-
 The process of registering an Estonian business and opening a bank account as an e-resident can be overwhelming, but with the help of a service provider like Xolo, everything became quite straightforward. Xolo helped me deal with regulations, accounting, and provided a mandatory business address. I was happy with Xolo's service and everything went smoothly.
 
 [_€100 credit when signing up through this link for Xolo leap, and €50 if you choose Xolo go_](https://www.xolo.io/ref/RUIZHA)
@@ -20,7 +17,7 @@ On the other hand, Companio offers a platform with many implemented functions in
 
 In conclusion, my journey with the Estonia e-residency program has been a learning experience. I've made mistakes, lost time, and learned a lot in the past 1.5 years. After switching back to Xolo, I am much more relaxed and focused on growing my business without the burden of manual work. I hope my experience can help others in making the right choice for their e-residency needs.
 
-Summary comparison between _Xolo_ and _Companio_:
+### Summary comparison between _Xolo_ and _Companio_:
 
 **Xolo**
 

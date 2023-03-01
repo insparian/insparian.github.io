@@ -22,7 +22,7 @@ In conclusion, my journey with the Estonia e-residency program has been a learni
 [**Xolo**](https://www.xolo.io/ref/RUIZHA)
 
 - User-friendly platform with essential features: dashboard, income, expense, business trip, banking, company profile, and reports
-- Automatically logs out after inactivity
+- Automatically logs out after inactivity. (update 01/03/2023) There is an option to stay login for a week.
 - Customer support through email (usually within 24 hours)
 - Bank movements matched with invoices automatically
 - Monthly plan started from €89 + VAT

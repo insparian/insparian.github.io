@@ -5,9 +5,6 @@ title: Nomad Visas - A Guide to Working and Traveling in Europe
 
 The rise of remote work and digital nomadism has led to an increasing demand for visas that allow individuals to live and work in different countries. One such option is the Nomad Visa, which is specially designed for digital nomads and remote workers looking to travel and work in Europe. In this article, we'll take a closer look at Nomad Visas, the European countries that offer them, and what you need to know before applying for one.
 
-![_config.yml]({{ site.baseurl }}https://nomadgate.com/uploads/covers/eresidency.jpg)
-Picture credit: nomadgate.com
-
 **What is a Nomad Visa?**
 
 A Nomad Visa is a type of visa that enables remote workers and digital nomads to reside and work in a foreign country for an extended period. Unlike conventional work visas, Nomad Visas don't necessitate a job offer from a local company or a fixed location. Instead, they allow you to work and travel at will, as long as you meet the visa requirements.

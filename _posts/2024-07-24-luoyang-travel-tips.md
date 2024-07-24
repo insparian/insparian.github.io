@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Luoyang - A city used to be capitals of 13 dynasty in Chinese history
+img: assets/img/posts/20240724/budda.jpg 
 categories: [China, Travel]
 ---
 

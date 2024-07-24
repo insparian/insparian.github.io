@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Estonia's e-Residency Program - My Journey to Location Independent Living
+categories: [Nomad]
 ---
 
 In 2019, I learned about the [Estonia e-residency program](https://www.e-resident.gov.ee) and saw it as an opportunity to live a location-independent lifestyle. The program was launched in December 2014 and I was eager to join. I applied for the e-residency program, but it wasn't until the summer of 2021 that I took the leap and started my own company for location independent work.

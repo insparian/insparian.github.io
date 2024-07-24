@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Why I Chose ChatGPT to Help with My Blogging
+categories: [Nomad]
 ---
 
 Blogging has become a popular way to share information, express opinions, and connect with others. However, for those who are great at researching information but struggle with expressing it in written form, blogging can be a frustrating experience. This was the case for me, until I discovered ChatGPT.

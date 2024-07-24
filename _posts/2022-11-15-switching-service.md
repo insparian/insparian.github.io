@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Making the Switch - How to Change Your Company's Service Provider in Estonia
+categories: [Nomad, Business]
 ---
 
 As a business owner, it is important to choose the right service provider for your company's needs. However, circumstances may change and you may need to switch service providers. In this guide, we will cover the process of switching service providers, including what to expect and what you need to know.

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Digital Nomad Visas in Malta - Separating Fact from Fiction
+categories: [Nomad]
 ---
 
 Are you considering Malta as your next digital nomad destination? With its sunny weather, beautiful beaches, and rich history, it's easy to see why Malta is a popular choice for digital nomads. However, there's a lot of misinformation out there about the Digital Nomad Visa (DNV) in Malta, so in this post, we'll separate fact from fiction and provide you with all the information you need to know.
